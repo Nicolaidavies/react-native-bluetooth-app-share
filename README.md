@@ -7,6 +7,8 @@ It looks for the current app's apk file, renames it to the name provided and the
 
 It's useful in places where access to internet is limited. Originally created for the Emoyeni app which works completely offline.
 
+Link to [Cordova version here](https://github.com/Nicolaidavies/cordova-plugin-bluetooth-app-share)
+
 ## Getting started
 
 `$ npm install react-native-bluetooth-share --save`
