@@ -1,6 +1,6 @@
 {
   "name": "react-native-bluetooth-share",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Share your react native android app from within the app itself using Bluetooth.",
   "main": "index.js",
   "scripts": {
